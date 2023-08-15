@@ -3,3 +3,6 @@
 *~
 .venv_fq/
 __pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
